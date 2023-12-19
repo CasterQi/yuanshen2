@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shield 2
+  m_Shader: {fileID: 4800000, guid: 5c0bae94734851845ae83a45e1d9ced3, type: 3}
+  m_ShaderKeywords: BlendAdd Clip_OFF FrameBlend_OFF SoftParticles_OFF VertLight_OFF
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: b085efdf97da55346973e679d76d85d1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpTex:
+        m_Texture: {fileID: 2800000, guid: 4fb80bc804baa8b4a84fca1b633c455a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CutoutMap:
+        m_Texture: {fileID: 2800000, guid: 8a6271a3c13985a4b9b3b12173d3816c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeightMap:
+        m_Texture: {fileID: 2800000, guid: 2d0a56c8113cffa4eb9ce825e41d11a4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: bc91aacbf07ec3c4394627292a7ce3df, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - DstMode: 1
+    - SrcMode: 5
+    - _BumpAmt: 50
+    - _Cutout: 1
+    - _FPOW: 5
+    - _FresnelDistort: 3000
+    - _Height: 0
+    - _InvFade: 5
+    - _R0: 0.05
+    - _RefractiveStrength: 0.05
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _FresnelColor: {r: 0.7352942, g: 3.09939, b: 10, a: 1}
+    - _FresnelDistort: {r: 8, g: 12, b: 1, a: 1500}
+    - _TintColor: {r: 1.7647057, g: 2.8397567, b: 8, a: 0.1}
+    - _UVScrollDistort: {r: 8, g: 12, b: 1, a: 1500}
+  m_BuildTextureStacks: []

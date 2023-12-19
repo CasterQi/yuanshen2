@@ -1,0 +1,153 @@
+Event	ID	Name			Wwise Object Path	Notes
+	20248908	entry_otherWorld			\Default Work Unit\entry_otherWorld	
+	219304270	jungle			\Default Work Unit\环境\jungle	
+	376462290	Sea			\Default Work Unit\Sea	
+	412724365	BGM			\Default Work Unit\BGM	
+	445985469	die			\Default Work Unit\boss\die	
+	649805049	dialogExit			\Default Work Unit\UI音效\dialogExit	
+	1006475218	enemyBorn			\Default Work Unit\enemyBorn	
+	1096575956	BGMin			\Default Work Unit\BGMin	
+	1151086799	act			\Default Work Unit\Voice\act	
+	1323846727	whoosh			\Default Work Unit\人物杂项\whoosh	
+	1414296329	snakeCry			\Default Work Unit\enemyCry\snakeCry	
+	1584861493	s1			\Default Work Unit\boss\s1	
+	1584861494	s2			\Default Work Unit\boss\s2	
+	1584861495	s3			\Default Work Unit\boss\s3	
+	1635194252	p1			\Default Work Unit\派蒙\p1	
+	1942696578	effect8			\Default Work Unit\effect\effect8	
+	1942696589	effect7			\Default Work Unit\effect\effect7	
+	1953886089	bearCry			\Default Work Unit\enemyCry\bearCry	
+	2074477625	waterfall			\Default Work Unit\环境\waterfall	
+	2454616260	sword			\Default Work Unit\sword	
+	2818899618	spiderCry			\Default Work Unit\enemyCry\spiderCry	
+	2886912260	transport			\Default Work Unit\transport	
+	2992745848	effect_boom			\Default Work Unit\effect\effect9\effect_boom	
+	3053554522	elephantCry			\Default Work Unit\enemyCry\elephantCry	
+	3313685168	voice3			\Default Work Unit\Voice\voice3	
+	3313685169	voice2			\Default Work Unit\Voice\voice2	
+	3313685170	voice1			\Default Work Unit\Voice\voice1	
+	3384279333	enemyDead			\Default Work Unit\enemyDead	
+	3590063018	cowCry			\Default Work Unit\enemyCry\cowCry	
+	3910125545	effect_fire			\Default Work Unit\effect\effect9\effect_fire	
+	3972255984	streamlet			\Default Work Unit\环境\streamlet	
+	4039405217	FootStepPlay			\Default Work Unit\FootStepPlay	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3321110986	footMaterial			\Default Work Unit\footMaterial	
+
+Switch	ID	Name	Switch Group			Notes
+	712897245	mud	footMaterial			
+	2654748154	water	footMaterial			
+	4248645337	grass	footMaterial			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	10093824	牛2_01	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\牛2_9FF1A40D.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemyCry\cowCry\牛2_01		68220
+	27016410	雷之律者-杀意不断从空气中传来。	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者-杀意不断从空气中传来。_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\对话3\雷之律者-杀意不断从空气中传来。		378688
+	34794023	水_06	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\水_04C70C98.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\water\水_06		35936
+	49965792	水_01	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\水_E0C1EF1C.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\water\水_01		41828
+	57844435	雷之律者-我已决定面对自己的命运。	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者-我已决定面对自己的命运。_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\对话2\雷之律者-我已决定面对自己的命运。		480064
+	69155988	剑 (2)	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\剑 (2)_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\剑\剑 (2)		110656
+	71729532	1	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\蜂鸣，滴，嘟_两声滴滴，家用电器_EFEC9260.wem		\Actor-Mixer Hierarchy\Default Work Unit\Boss技能\施法\a\1		140848
+	84992902	ExplosionFire6	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\ExplosionFire6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\技能9\ExplosionFire6		466752
+	87998546	p1	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\p2_9F1014B1.wem		\Actor-Mixer Hierarchy\Default Work Unit\派蒙\派蒙\pm1_02\p1		1108112
+	91424283	RockImpact2	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\RockImpact2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\技能9\RockImpact2		589112
+	113175139	草地_02	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\草地_D3208596.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\grass\草地_02		100480
+	119847875	p1	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\p2_07B916A5.wem		\Actor-Mixer Hierarchy\Default Work Unit\派蒙\派蒙\pm1_04\p1		1962892
+	127720322	跑步声-硬地面-平稳_01	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\跑步声-硬地面-平稳_4C7BE1B6.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\脚步\跑步声-硬地面-平稳_01		26828
+	137210909	跑步声-硬地面-平稳_02	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\跑步声-硬地面-平稳_023B0035.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\脚步\跑步声-硬地面-平稳_02		24332
+	139859144	牛2_02	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\牛2_19322EE5.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemyCry\cowCry\牛2_02		82096
+	144847248	2	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\撞击_太空爆炸_360F0FC5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Boss技能\降落\2		230140
+	157701532	雷之律者 (23)	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者 (23)_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\语气词\雷之律者 (23)		78144
+	166988464	ExplosionFire3	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\ExplosionFire3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\技能9\ExplosionFire3		435136
+	178473490	静音	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\跑步声-硬地面-平稳_86642012.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\静音		9400
+	185631284	水_07	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\水_C2BF39E2.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\water\水_07		41824
+	208836083	跑步声-硬地面-平稳_03	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\跑步声-硬地面-平稳_3087D543.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\脚步\跑步声-硬地面-平稳_03		29776
+	229256052	1	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\程序，软件，界面，操作系统-move_cursor_25_9F2D2E49.wem		\Actor-Mixer Hierarchy\Default Work Unit\派蒙\派蒙\pm1\1		226444
+	233974132	leading慵懒forGame1	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\leading慵懒forGame1_BA08408D.wem		\Actor-Mixer Hierarchy\Default Work Unit\BGM\leading慵懒forGame1		23708304
+	242683356	牛	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\牛_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemyCry\cowCry\牛		239868
+	257833233	p1	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\p2_A52EA4B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\派蒙\派蒙\pm1_06\p1		1962888
+	259885520	雷之律者-我，有必须要去完成的事。	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者-我，有必须要去完成的事。_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\对话3\雷之律者-我，有必须要去完成的事。		527680
+	287320579	雷之律者-阳光很温暖，希望她能一直沐浴这样的阳光。【天气语音】	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者-阳光很温暖，希望她能一直沐浴这样的阳光。【天气语音】_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\对话\雷之律者-阳光很温暖，希望她能一直沐浴这样的阳光。【天气语音】		726848
+	298011989	LoopGhost5	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\LoopGhost5_CFDAEE14.wem		\Actor-Mixer Hierarchy\Default Work Unit\传送门\New Sequence Container_02\LoopGhost5		1183168
+	312613368	雷之律者 (15)	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者 (15)_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\语气词\雷之律者 (15)		94016
+	323674537	小溪	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\小溪_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\环境\小溪		21805120
+	327670782	断罪影舞-前进，是我唯一的选择。	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\断罪影舞-前进，是我唯一的选择。_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\对话3\断罪影舞-前进，是我唯一的选择。		411968
+	330570141	水_08	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\水_5B7982D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\water\水_08		50928
+	360510214	Epic Movie Trailer Bass Drum Sub 2	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\Epic Movie Trailer Bass Drum Sub 2_0BDE2FDB.wem		\Actor-Mixer Hierarchy\Default Work Unit\entryOtherWorld\entry\Epic Movie Trailer Bass Drum Sub 2		669104
+	368662360	p1	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\p2_E965F393.wem		\Actor-Mixer Hierarchy\Default Work Unit\派蒙\派蒙\pm1_05\p1		1023688
+	383480355	雷之律者-入夜了___每当夜深人静我总会想到她的事。【深夜语音】	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者-入夜了...每当夜深人静我总会想到她的事。【深夜语音】_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\对话2\雷之律者-入夜了___每当夜深人静我总会想到她的事。【深夜语音】		817472
+	384046221	水	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\水_67EE36F6.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\water\水		35404
+	391540226	大象1	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\大象1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemyCry\elephantCry\大象1		267328
+	398109704	2	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\火箭_升空 加速火_9C2C6D03.wem		\Actor-Mixer Hierarchy\Default Work Unit\Boss技能\起飞3\2		876008
+	401835420	水_09	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\水_8285ADAB.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\water\水_09		53068
+	404221621	LoopGhost9	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\LoopGhost9_737448A6.wem		\Actor-Mixer Hierarchy\Default Work Unit\传送门\New Sequence Container_03\LoopGhost9		1772352
+	407812270	跑步声-硬地面-平稳_05	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\跑步声-硬地面-平稳_FD8ED4DB.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\脚步\跑步声-硬地面-平稳_05		26604
+	409682865	1	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\隆隆声_宇宙大爆炸_D333ABDF.wem		\Actor-Mixer Hierarchy\Default Work Unit\Boss技能\降落\1		1000116
+	429954624	Epic Movie Trailer Horns From Hell 2	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\Epic Movie Trailer Horns From Hell 2_4E358946.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemyBorn\Epic Movie Trailer Horns From Hell 2		1182320
+	438229637	熊4	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\熊4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemyCry\bearCry\熊4		203004
+	447644073	LoopFire7	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\LoopFire7_299CF6FE.wem		\Actor-Mixer Hierarchy\Default Work Unit\技能9\LoopFire7		578752
+	457330435	p1	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\p1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\派蒙\派蒙\pm1\p1		2342976
+	471286021	雷之律者-该结束了！	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者-该结束了！_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\对话3\雷之律者-该结束了！		140096
+	485927064	p1	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\p2_6B44E04E.wem		\Actor-Mixer Hierarchy\Default Work Unit\派蒙\派蒙\pm1_03\p1		1192532
+	490012332	草地_03	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\草地_22EA7AF3.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\grass\草地_03		103348
+	491381755	雷之律者 (19)	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者 (19)_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\语气词\雷之律者 (19)		138048
+	503538627	Epic Movie Trailer Deep Sizzler Hit 2	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\Epic Movie Trailer Deep Sizzler Hit 2_DDF118B3.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemyDead\Epic Movie Trailer Deep Sizzler Hit 2		1187056
+	505372188	LoopFire4	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\LoopFire4_AA7D8E0C.wem		\Actor-Mixer Hierarchy\Default Work Unit\技能7\LoopFire4		577152
+	514753002	雷之律者-我还能继续战斗。	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者-我还能继续战斗。_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\对话3\雷之律者-我还能继续战斗。		223552
+	521068304	1	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\boss\强调impact_回音_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Boss技能\起飞3\1		1374716
+	527224241	丛林	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\丛林_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\环境\丛林		21593528
+	533046670	运动_  多个滑行_ 动物	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\运动_  多个滑行_ 动物_0B5D2D35.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemyCry\SnakeCry\运动_  多个滑行_ 动物		2832908
+	537928206	跑步声-硬地面-平稳_07	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\跑步声-硬地面-平稳_4C8D2915.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\脚步\跑步声-硬地面-平稳_07		29776
+	556638024	雷之律者-我绝不会手下留情。	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者-我绝不会手下留情。_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\对话2\雷之律者-我绝不会手下留情。		262464
+	561565915	跑步声-硬地面-平稳	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\跑步声-硬地面-平稳_FEE65FCC.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\脚步\跑步声-硬地面-平稳		23880
+	574034264	大象2	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\大象2_2BCB1157.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemyCry\elephantCry\大象2		385576
+	588591513	雷之律者-出现了吗？	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者-出现了吗？_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\对话2\雷之律者-出现了吗？		130368
+	589381185	LoopFire6	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\LoopFire6_A2297E0D.wem		\Actor-Mixer Hierarchy\Default Work Unit\技能8\New Sequence Container_01\LoopFire6		775360
+	605459185	剑 (3)	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\剑 (3)_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\剑\剑 (3)		73792
+	622223907	雷之律者-不用担心我。	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者-不用担心我。_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\对话3\雷之律者-不用担心我。		174912
+	626228348	熊3	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\熊3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemyCry\bearCry\熊3		80704
+	629335957	水_02	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\水_CD0CA221.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\water\水_02		45040
+	653058070	New Sound SFX	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\未命名2_D28A3F5B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Boss技能\die\New Sound SFX		1930956
+	687867028	草地_01	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\草地_DBE43D36.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\grass\草地_01		111956
+	696750623	雷之律者-已经是春天了吗？雨季马上要来临了。【春日语音】	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者-已经是春天了吗？雨季马上要来临了。【春日语音】_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\对话\雷之律者-已经是春天了吗？雨季马上要来临了。【春日语音】		675136
+	697247947	水_05	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\水_9BFCA688.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\water\水_05		38612
+	697601400	雷之律者-开始行动！	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者-开始行动！_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\对话2\雷之律者-开始行动！		136000
+	719008841	Epic_Stock_Media_Epic_Cinematic_Trailer_(Preview)	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\Epic_Stock_Media_Epic_Cinematic_Trailer_(Preview)_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\entryOtherWorld\Epic_Stock_Media_Epic_Cinematic_Trailer_(Preview)		37057600
+	732691562	跑步声-硬地面-平稳_06	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\跑步声-硬地面-平稳_F9728EAD.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\脚步\跑步声-硬地面-平稳_06		25468
+	736650216	水_04	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\水_3B871906.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\water\水_04		40756
+	757334576	牛2	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\牛2_E3BAD318.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemyCry\cowCry\牛2		52180
+	770626487	dialog退出	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\程序，软件，界面，操作系统-cursor_selection_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI音效\dialog退出		260468
+	775547571	Flame1	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\Flame1_29C859CE.wem		\Actor-Mixer Hierarchy\Default Work Unit\技能9\Flame1		747584
+	785825118	Nieve,Cook - Chronic Intoxication-Anan Ryoko remix-	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\Nieve,Cook - Chronic Intoxication-Anan Ryoko remix-_B2B7EA11.wem		\Actor-Mixer Hierarchy\Default Work Unit\Nieve,Cook - Chronic Intoxication-Anan Ryoko remix-		5218388
+	789224015	2	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\失真，画面破损，鬼畜Glitch Fade_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Boss技能\施法\a\2		486928
+	793136407	断罪影舞-未来的路，我会独自走下去。	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\断罪影舞-未来的路，我会独自走下去。_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\对话2\断罪影舞-未来的路，我会独自走下去。		438080
+	809075800	水_03	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\水_E24D3D8A.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\water\水_03		46648
+	818203125	whoosh	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\whoosh-呼_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\whoosh		121816
+	822849841	雷之律者-以前，也和她一起来过这里___	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者-以前，也和她一起来过这里..._10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\对话\雷之律者-以前，也和她一起来过这里___		524608
+	822939620	断罪影舞-剑已出鞘！	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\断罪影舞-剑已出鞘！_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\对话3\断罪影舞-剑已出鞘！		174912
+	832964047	3	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\魔法, 科幻，能量球_出击24_79A75F4F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Boss技能\施法\a\3		518068
+	833954064	Epic Movie Trailer Deep Sizzler Hit 1	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\Epic Movie Trailer Deep Sizzler Hit 1_B8F31705.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemyDead\Epic Movie Trailer Deep Sizzler Hit 1		1187056
+	834121009	New Sound SFX_02	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\未命名3_09A804B1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Boss技能\die\New Sound SFX_02		1137232
+	837185025	InFire2	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\InFire2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\技能7\InFire2		677568
+	854263668	Epic Movie Trailer Horns From Hell 1	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\Epic Movie Trailer Horns From Hell 1_18DBD97C.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemyBorn\Epic Movie Trailer Horns From Hell 1		1182320
+	857308161	剑 (1)	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\剑 (1)_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\剑\剑 (1)		50752
+	877666262	蜘蛛	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\蜘蛛_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemyCry\SpiderCry\蜘蛛		226044
+	878414647	Epic Movie Trailer Bottomless Vortex Hit 1	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\Epic Movie Trailer Bottomless Vortex Hit 1_FCB54E12.wem		\Actor-Mixer Hierarchy\Default Work Unit\entryOtherWorld\entry\Epic Movie Trailer Bottomless Vortex Hit 1		756848
+	906623314	雷之律者-绝不放过一个敌人！	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者-绝不放过一个敌人！_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\对话3\雷之律者-绝不放过一个敌人！		234304
+	914833477	跑步声-硬地面-平稳_04	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\跑步声-硬地面-平稳_D3F8143B.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\脚步\跑步声-硬地面-平稳_04		20704
+	927862549	雷之律者-你们逃不掉了。	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者-你们逃不掉了。_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\对话3\雷之律者-你们逃不掉了。		163648
+	931139130	LoopFire5	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\LoopFire5_00E97752.wem		\Actor-Mixer Hierarchy\Default Work Unit\技能8\New Sequence Container\LoopFire5		658496
+	944106564	LoopGhost1	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\LoopGhost1_1F8F8383.wem		\Actor-Mixer Hierarchy\Default Work Unit\传送门\New Sequence Container\LoopGhost1		849984
+	947936305	ExplosionGhost2	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\ExplosionGhost2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\传送门\New Sequence Container\ExplosionGhost2		978880
+	996059667	InWave2	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\InWave2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\技能9\InWave2		330944
+	999332498	New Sound SFX_01	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\未命名3_9335AEBF.wem		\Actor-Mixer Hierarchy\Default Work Unit\Boss技能\die\New Sound SFX_01		349036
+	1001248319	leading慵懒forGame2	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\leading慵懒forGame2_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\BGM\leading慵懒forGame2		20321424
+	1002301227	草地_04	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\草地_521B2CC5.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\grass\草地_04		100480
+	1014000034	海浪	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\海浪_908DABF6.wem		\Actor-Mixer Hierarchy\Default Work Unit\海浪		5020480
+	1020889025	草地	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\草地_828C5D26.wem		\Actor-Mixer Hierarchy\Default Work Unit\TureFootStep\footStep\grass\草地		94740
+	1025971948	瀑布	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\瀑布_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\环境\瀑布		18372160
+	1027327443	雷之律者 (26)	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者 (26)_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\语气词\雷之律者 (26)		65344
+	1046342364	雷之律者-一刀两断。	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者-一刀两断。_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\对话3\雷之律者-一刀两断。		148288
+	1047329883	雷之律者-已经无法回头了。	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\雷之律者-已经无法回头了。_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\语音\对话2\雷之律者-已经无法回头了。		211776
+	1058150990	p1	D:\unity\wwise\wwiseProject3\.cache\Mac\SFX\p2_A3E73C7F.wem		\Actor-Mixer Hierarchy\Default Work Unit\派蒙\派蒙\pm1_01\p1		2638268
+

@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>D:\unity\wwise\wwiseProject3\</ProjectRoot>
+		<SourceFilesRoot>D:\unity\wwise\wwiseProject3\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\unity\New Unity Project\Assets\StreamingAssets\Audio\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\unity\wwise\wwiseProject3\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="534561221" Language="SFX" Hash="1928945265">
+			<ObjectPath>\SoundBanks\Default Work Unit\MainSoundBank</ObjectPath>
+			<ShortName>MainSoundBank</ShortName>
+			<Path>MainSoundBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1151086799" Name="act" ObjectPath="\Events\Default Work Unit\Voice\act" DurationType="OneShot" DurationMin="0.370068" DurationMax="0.782222">
+					<IncludedMemoryFiles>
+						<File Id="157701532" Language="SFX">
+							<ShortName>雷之律者 (23).wav</ShortName>
+							<Path>SFX\雷之律者 (23)_10C4C929.wem</Path>
+						</File>
+						<File Id="312613368" Language="SFX">
+							<ShortName>雷之律者 (15).wav</ShortName>
+							<Path>SFX\雷之律者 (15)_10C4C929.wem</Path>
+						</File>
+						<File Id="491381755" Language="SFX">
+							<ShortName>雷之律者 (19).wav</ShortName>
+							<Path>SFX\雷之律者 (19)_10C4C929.wem</Path>
+						</File>
+						<File Id="1027327443" Language="SFX">
+							<ShortName>雷之律者 (26).wav</ShortName>
+							<Path>SFX\雷之律者 (26)_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1953886089" Name="bearCry" ObjectPath="\Events\Default Work Unit\enemyCry\bearCry" DurationType="OneShot" DurationMin="1.828571" DurationMax="2.300907">
+					<IncludedMemoryFiles>
+						<File Id="438229637" Language="SFX">
+							<ShortName>熊4.wav</ShortName>
+							<Path>SFX\熊4_10C4C929.wem</Path>
+						</File>
+						<File Id="626228348" Language="SFX">
+							<ShortName>熊3.wav</ShortName>
+							<Path>SFX\熊3_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="412724365" Name="BGM" ObjectPath="\Events\Default Work Unit\BGM" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="233974132" Language="SFX">
+							<ShortName>leading慵懒forGame1.wav</ShortName>
+							<Path>SFX\leading慵懒forGame1_BA08408D.wem</Path>
+						</File>
+						<File Id="1001248319" Language="SFX">
+							<ShortName>leading慵懒forGame2.wav</ShortName>
+							<Path>SFX\leading慵懒forGame2_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1096575956" Name="BGMin" ObjectPath="\Events\Default Work Unit\BGMin" DurationType="OneShot" DurationMin="29.582338" DurationMax="29.582338">
+					<IncludedMemoryFiles>
+						<File Id="785825118" Language="SFX">
+							<ShortName>Nieve,Cook - Chronic Intoxication-Anan Ryoko remix-.wav</ShortName>
+							<Path>SFX\Nieve,Cook - Chronic Intoxication-Anan Ryoko remix-_B2B7EA11.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3590063018" Name="cowCry" ObjectPath="\Events\Default Work Unit\enemyCry\cowCry" DurationType="OneShot" DurationMin="1.181826" DurationMax="2.718866">
+					<IncludedMemoryFiles>
+						<File Id="10093824" Language="SFX">
+							<ShortName>牛2.wav</ShortName>
+							<Path>SFX\牛2_9FF1A40D.wem</Path>
+						</File>
+						<File Id="139859144" Language="SFX">
+							<ShortName>牛2.wav</ShortName>
+							<Path>SFX\牛2_19322EE5.wem</Path>
+						</File>
+						<File Id="242683356" Language="SFX">
+							<ShortName>牛.wav</ShortName>
+							<Path>SFX\牛_10C4C929.wem</Path>
+						</File>
+						<File Id="757334576" Language="SFX">
+							<ShortName>牛2.wav</ShortName>
+							<Path>SFX\牛2_E3BAD318.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="649805049" Name="dialogExit" ObjectPath="\Events\Default Work Unit\UI音效\dialogExit" DurationType="OneShot" DurationMin="1.356271" DurationMax="1.356271">
+					<IncludedMemoryFiles>
+						<File Id="770626487" Language="SFX">
+							<ShortName>程序，软件，界面，操作系统-cursor_selection_02.wav</ShortName>
+							<Path>SFX\程序，软件，界面，操作系统-cursor_selection_02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="445985469" Name="die" ObjectPath="\Events\Default Work Unit\boss\die" DurationType="OneShot" DurationMin="10.317564" DurationMax="10.317564">
+					<IncludedMemoryFiles>
+						<File Id="653058070" Language="SFX">
+							<ShortName>未命名2.wav</ShortName>
+							<Path>SFX\未命名2_D28A3F5B.wem</Path>
+						</File>
+						<File Id="834121009" Language="SFX">
+							<ShortName>未命名3.wav</ShortName>
+							<Path>SFX\未命名3_09A804B1.wem</Path>
+						</File>
+						<File Id="999332498" Language="SFX">
+							<ShortName>未命名3.wav</ShortName>
+							<Path>SFX\未命名3_9335AEBF.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1942696589" Name="effect7" ObjectPath="\Events\Default Work Unit\effect\effect7" DurationType="OneShot" DurationMin="6.189123" DurationMax="6.189123">
+					<IncludedMemoryFiles>
+						<File Id="505372188" Language="SFX">
+							<ShortName>LoopFire4.wav</ShortName>
+							<Path>SFX\LoopFire4_AA7D8E0C.wem</Path>
+						</File>
+						<File Id="837185025" Language="SFX">
+							<ShortName>InFire2.wav</ShortName>
+							<Path>SFX\InFire2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1942696578" Name="effect8" ObjectPath="\Events\Default Work Unit\effect\effect8" DurationType="OneShot" DurationMin="12.432000" DurationMax="12.432000">
+					<IncludedMemoryFiles>
+						<File Id="589381185" Language="SFX">
+							<ShortName>LoopFire6.wav</ShortName>
+							<Path>SFX\LoopFire6_A2297E0D.wem</Path>
+						</File>
+						<File Id="878414647" Language="SFX">
+							<ShortName>Epic Movie Trailer Bottomless Vortex Hit 1.wav</ShortName>
+							<Path>SFX\Epic Movie Trailer Bottomless Vortex Hit 1_FCB54E12.wem</Path>
+						</File>
+						<File Id="931139130" Language="SFX">
+							<ShortName>LoopFire5.wav</ShortName>
+							<Path>SFX\LoopFire5_00E97752.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2992745848" Name="effect_boom" ObjectPath="\Events\Default Work Unit\effect\effect9\effect_boom" DurationType="OneShot" DurationMin="4.237642" DurationMax="4.237642">
+					<IncludedMemoryFiles>
+						<File Id="84992902" Language="SFX">
+							<ShortName>ExplosionFire6.wav</ShortName>
+							<Path>SFX\ExplosionFire6_10C4C929.wem</Path>
+						</File>
+						<File Id="91424283" Language="SFX">
+							<ShortName>RockImpact2.wav</ShortName>
+							<Path>SFX\RockImpact2_10C4C929.wem</Path>
+						</File>
+						<File Id="775547571" Language="SFX">
+							<ShortName>Flame1.wav</ShortName>
+							<Path>SFX\Flame1_29C859CE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3910125545" Name="effect_fire" ObjectPath="\Events\Default Work Unit\effect\effect9\effect_fire" DurationType="OneShot" DurationMin="3.014000" DurationMax="3.014000">
+					<IncludedMemoryFiles>
+						<File Id="166988464" Language="SFX">
+							<ShortName>ExplosionFire3.wav</ShortName>
+							<Path>SFX\ExplosionFire3_10C4C929.wem</Path>
+						</File>
+						<File Id="447644073" Language="SFX">
+							<ShortName>LoopFire7.wav</ShortName>
+							<Path>SFX\LoopFire7_299CF6FE.wem</Path>
+						</File>
+						<File Id="996059667" Language="SFX">
+							<ShortName>InWave2.wav</ShortName>
+							<Path>SFX\InWave2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3053554522" Name="elephantCry" ObjectPath="\Events\Default Work Unit\enemyCry\elephantCry" DurationType="OneShot" DurationMin="3.030204" DurationMax="4.370887">
+					<IncludedMemoryFiles>
+						<File Id="391540226" Language="SFX">
+							<ShortName>大象1.wav</ShortName>
+							<Path>SFX\大象1_10C4C929.wem</Path>
+						</File>
+						<File Id="574034264" Language="SFX">
+							<ShortName>大象2.wav</ShortName>
+							<Path>SFX\大象2_2BCB1157.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1006475218" Name="enemyBorn" ObjectPath="\Events\Default Work Unit\enemyBorn" DurationType="OneShot" DurationMin="10.202131" DurationMax="10.202131">
+					<IncludedMemoryFiles>
+						<File Id="429954624" Language="SFX">
+							<ShortName>Epic Movie Trailer Horns From Hell 2.wav</ShortName>
+							<Path>SFX\Epic Movie Trailer Horns From Hell 2_4E358946.wem</Path>
+						</File>
+						<File Id="854263668" Language="SFX">
+							<ShortName>Epic Movie Trailer Horns From Hell 1.wav</ShortName>
+							<Path>SFX\Epic Movie Trailer Horns From Hell 1_18DBD97C.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3384279333" Name="enemyDead" ObjectPath="\Events\Default Work Unit\enemyDead" DurationType="OneShot" DurationMin="7.728980" DurationMax="7.728980">
+					<IncludedMemoryFiles>
+						<File Id="503538627" Language="SFX">
+							<ShortName>Epic Movie Trailer Deep Sizzler Hit 2.wav</ShortName>
+							<Path>SFX\Epic Movie Trailer Deep Sizzler Hit 2_DDF118B3.wem</Path>
+						</File>
+						<File Id="833954064" Language="SFX">
+							<ShortName>Epic Movie Trailer Deep Sizzler Hit 1.wav</ShortName>
+							<Path>SFX\Epic Movie Trailer Deep Sizzler Hit 1_B8F31705.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="20248908" Name="entry_otherWorld" ObjectPath="\Events\Default Work Unit\entry_otherWorld" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="360510214" Language="SFX">
+							<ShortName>Epic Movie Trailer Bass Drum Sub 2.wav</ShortName>
+							<Path>SFX\Epic Movie Trailer Bass Drum Sub 2_0BDE2FDB.wem</Path>
+						</File>
+						<File Id="719008841" Language="SFX">
+							<ShortName>Epic_Stock_Media_Epic_Cinematic_Trailer_(Preview).wav</ShortName>
+							<Path>SFX\Epic_Stock_Media_Epic_Cinematic_Trailer_(Preview)_D79FB2B7.wem</Path>
+						</File>
+						<File Id="878414647" Language="SFX">
+							<ShortName>Epic Movie Trailer Bottomless Vortex Hit 1.wav</ShortName>
+							<Path>SFX\Epic Movie Trailer Bottomless Vortex Hit 1_FCB54E12.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4039405217" Name="FootStepPlay" ObjectPath="\Events\Default Work Unit\FootStepPlay" DurationType="OneShot" DurationMin="0.339876" DurationMax="0.740161">
+					<IncludedMemoryFiles>
+						<File Id="34794023" Language="SFX">
+							<ShortName>水.wav</ShortName>
+							<Path>SFX\水_04C70C98.wem</Path>
+						</File>
+						<File Id="49965792" Language="SFX">
+							<ShortName>水.wav</ShortName>
+							<Path>SFX\水_E0C1EF1C.wem</Path>
+						</File>
+						<File Id="113175139" Language="SFX">
+							<ShortName>草地.wav</ShortName>
+							<Path>SFX\草地_D3208596.wem</Path>
+						</File>
+						<File Id="127720322" Language="SFX">
+							<ShortName>跑步声-硬地面-平稳.wav</ShortName>
+							<Path>SFX\跑步声-硬地面-平稳_4C7BE1B6.wem</Path>
+						</File>
+						<File Id="137210909" Language="SFX">
+							<ShortName>跑步声-硬地面-平稳.wav</ShortName>
+							<Path>SFX\跑步声-硬地面-平稳_023B0035.wem</Path>
+						</File>
+						<File Id="178473490" Language="SFX">
+							<ShortName>跑步声-硬地面-平稳.wav</ShortName>
+							<Path>SFX\跑步声-硬地面-平稳_86642012.wem</Path>
+						</File>
+						<File Id="185631284" Language="SFX">
+							<ShortName>水.wav</ShortName>
+							<Path>SFX\水_C2BF39E2.wem</Path>
+						</File>
+						<File Id="208836083" Language="SFX">
+							<ShortName>跑步声-硬地面-平稳.wav</ShortName>
+							<Path>SFX\跑步声-硬地面-平稳_3087D543.wem</Path>
+						</File>
+						<File Id="330570141" Language="SFX">
+							<ShortName>水.wav</ShortName>
+							<Path>SFX\水_5B7982D8.wem</Path>
+						</File>
+						<File Id="384046221" Language="SFX">
+							<ShortName>水.wav</ShortName>
+							<Path>SFX\水_67EE36F6.wem</Path>
+						</File>
+						<File Id="401835420" Language="SFX">
+							<ShortName>水.wav</ShortName>
+							<Path>SFX\水_8285ADAB.wem</Path>
+						</File>
+						<File Id="407812270" Language="SFX">
+							<ShortName>跑步声-硬地面-平稳.wav</ShortName>
+							<Path>SFX\跑步声-硬地面-平稳_FD8ED4DB.wem</Path>
+						</File>
+						<File Id="490012332" Language="SFX">
+							<ShortName>草地.wav</ShortName>
+							<Path>SFX\草地_22EA7AF3.wem</Path>
+						</File>
+						<File Id="537928206" Language="SFX">
+							<ShortName>跑步声-硬地面-平稳.wav</ShortName>
+							<Path>SFX\跑步声-硬地面-平稳_4C8D2915.wem</Path>
+						</File>
+						<File Id="561565915" Language="SFX">
+							<ShortName>跑步声-硬地面-平稳.wav</ShortName>
+							<Path>SFX\跑步声-硬地面-平稳_FEE65FCC.wem</Path>
+						</File>
+						<File Id="629335957" Language="SFX">
+							<ShortName>水.wav</ShortName>
+							<Path>SFX\水_CD0CA221.wem</Path>
+						</File>
+						<File Id="687867028" Language="SFX">
+							<ShortName>草地.wav</ShortName>
+							<Path>SFX\草地_DBE43D36.wem</Path>
+						</File>
+						<File Id="697247947" Language="SFX">
+							<ShortName>水.wav</ShortName>
+							<Path>SFX\水_9BFCA688.wem</Path>
+						</File>
+						<File Id="732691562" Language="SFX">
+							<ShortName>跑步声-硬地面-平稳.wav</ShortName>
+							<Path>SFX\跑步声-硬地面-平稳_F9728EAD.wem</Path>
+						</File>
+						<File Id="736650216" Language="SFX">
+							<ShortName>水.wav</ShortName>
+							<Path>SFX\水_3B871906.wem</Path>
+						</File>
+						<File Id="809075800" Language="SFX">
+							<ShortName>水.wav</ShortName>
+							<Path>SFX\水_E24D3D8A.wem</Path>
+						</File>
+						<File Id="914833477" Language="SFX">
+							<ShortName>跑步声-硬地面-平稳.wav</ShortName>
+							<Path>SFX\跑步声-硬地面-平稳_D3F8143B.wem</Path>
+						</File>
+						<File Id="1002301227" Language="SFX">
+							<ShortName>草地.wav</ShortName>
+							<Path>SFX\草地_521B2CC5.wem</Path>
+						</File>
+						<File Id="1020889025" Language="SFX">
+							<ShortName>草地.wav</ShortName>
+							<Path>SFX\草地_828C5D26.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{2654E74D-3CD0-4271-B026-28481C3E987A}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{2654E74D-3CD0-4271-B026-28481C3E987A}">
+							<Media>
+								<File Id="561565915"/>
+								<File Id="127720322"/>
+								<File Id="137210909"/>
+								<File Id="208836083"/>
+								<File Id="914833477"/>
+								<File Id="407812270"/>
+								<File Id="732691562"/>
+								<File Id="537928206"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{A7DAACA1-760F-4241-B222-D1FBB6340F32}">
+							<Media>
+								<File Id="384046221"/>
+								<File Id="49965792"/>
+								<File Id="629335957"/>
+								<File Id="809075800"/>
+								<File Id="736650216"/>
+								<File Id="697247947"/>
+								<File Id="34794023"/>
+								<File Id="185631284"/>
+								<File Id="330570141"/>
+								<File Id="401835420"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{6954CE41-C3C3-490C-92DA-404748FD00DF}">
+							<Media>
+								<File Id="1020889025"/>
+								<File Id="687867028"/>
+								<File Id="113175139"/>
+								<File Id="490012332"/>
+								<File Id="1002301227"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="219304270" Name="jungle" ObjectPath="\Events\Default Work Unit\环境\jungle" DurationType="OneShot" DurationMin="122.411926" DurationMax="122.411926">
+					<IncludedMemoryFiles>
+						<File Id="527224241" Language="SFX">
+							<ShortName>丛林.wav</ShortName>
+							<Path>SFX\丛林_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1635194252" Name="p1" ObjectPath="\Events\Default Work Unit\派蒙\p1" DurationType="OneShot" DurationMin="6.510435" DurationMax="14.919714">
+					<IncludedMemoryFiles>
+						<File Id="87998546" Language="SFX">
+							<ShortName>p2.wav</ShortName>
+							<Path>SFX\p2_9F1014B1.wem</Path>
+						</File>
+						<File Id="119847875" Language="SFX">
+							<ShortName>p2.wav</ShortName>
+							<Path>SFX\p2_07B916A5.wem</Path>
+						</File>
+						<File Id="229256052" Language="SFX">
+							<ShortName>程序，软件，界面，操作系统-move_cursor_25.wav</ShortName>
+							<Path>SFX\程序，软件，界面，操作系统-move_cursor_25_9F2D2E49.wem</Path>
+						</File>
+						<File Id="257833233" Language="SFX">
+							<ShortName>p2.wav</ShortName>
+							<Path>SFX\p2_A52EA4B5.wem</Path>
+						</File>
+						<File Id="368662360" Language="SFX">
+							<ShortName>p2.wav</ShortName>
+							<Path>SFX\p2_E965F393.wem</Path>
+						</File>
+						<File Id="457330435" Language="SFX">
+							<ShortName>p1.wav</ShortName>
+							<Path>SFX\p1_10C4C929.wem</Path>
+						</File>
+						<File Id="485927064" Language="SFX">
+							<ShortName>p2.wav</ShortName>
+							<Path>SFX\p2_6B44E04E.wem</Path>
+						</File>
+						<File Id="1058150990" Language="SFX">
+							<ShortName>p2.wav</ShortName>
+							<Path>SFX\p2_A3E73C7F.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1584861493" Name="s1" ObjectPath="\Events\Default Work Unit\boss\s1" DurationType="OneShot" DurationMin="7.792812" DurationMax="7.792812">
+					<IncludedMemoryFiles>
+						<File Id="398109704" Language="SFX">
+							<ShortName>火箭_升空 加速火.wav</ShortName>
+							<Path>SFX\火箭_升空 加速火_9C2C6D03.wem</Path>
+						</File>
+						<File Id="521068304" Language="SFX">
+							<ShortName>boss\强调impact_回音.wav</ShortName>
+							<Path>SFX\boss\强调impact_回音_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1584861494" Name="s2" ObjectPath="\Events\Default Work Unit\boss\s2" DurationType="OneShot" DurationMin="2.936525" DurationMax="2.936525">
+					<IncludedMemoryFiles>
+						<File Id="71729532" Language="SFX">
+							<ShortName>蜂鸣，滴，嘟_两声滴滴，家用电器.wav</ShortName>
+							<Path>SFX\蜂鸣，滴，嘟_两声滴滴，家用电器_EFEC9260.wem</Path>
+						</File>
+						<File Id="789224015" Language="SFX">
+							<ShortName>失真，画面破损，鬼畜Glitch Fade.wav</ShortName>
+							<Path>SFX\失真，画面破损，鬼畜Glitch Fade_10C4C929.wem</Path>
+						</File>
+						<File Id="832964047" Language="SFX">
+							<ShortName>魔法, 科幻，能量球_出击24.wav</ShortName>
+							<Path>SFX\魔法, 科幻，能量球_出击24_79A75F4F.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1584861495" Name="s3" ObjectPath="\Events\Default Work Unit\boss\s3" DurationType="OneShot" DurationMin="5.669239" DurationMax="5.669239">
+					<IncludedMemoryFiles>
+						<File Id="144847248" Language="SFX">
+							<ShortName>撞击_太空爆炸.wav</ShortName>
+							<Path>SFX\撞击_太空爆炸_360F0FC5.wem</Path>
+						</File>
+						<File Id="409682865" Language="SFX">
+							<ShortName>隆隆声_宇宙大爆炸.wav</ShortName>
+							<Path>SFX\隆隆声_宇宙大爆炸_D333ABDF.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="376462290" Name="Sea" ObjectPath="\Events\Default Work Unit\Sea" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="1014000034" Language="SFX">
+							<ShortName>海浪.wav</ShortName>
+							<Path>SFX\海浪_908DABF6.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1414296329" Name="snakeCry" ObjectPath="\Events\Default Work Unit\enemyCry\snakeCry" DurationType="OneShot" DurationMin="16.059216" DurationMax="16.059216">
+					<IncludedMemoryFiles>
+						<File Id="533046670" Language="SFX">
+							<ShortName>运动_  多个滑行_ 动物.wav</ShortName>
+							<Path>SFX\运动_  多个滑行_ 动物_0B5D2D35.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2818899618" Name="spiderCry" ObjectPath="\Events\Default Work Unit\enemyCry\spiderCry" DurationType="OneShot" DurationMin="2.562131" DurationMax="2.562131">
+					<IncludedMemoryFiles>
+						<File Id="877666262" Language="SFX">
+							<ShortName>蜘蛛.wav</ShortName>
+							<Path>SFX\蜘蛛_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3972255984" Name="streamlet" ObjectPath="\Events\Default Work Unit\环境\streamlet" DurationType="OneShot" DurationMin="123.611427" DurationMax="123.611427">
+					<IncludedMemoryFiles>
+						<File Id="323674537" Language="SFX">
+							<ShortName>小溪.wav</ShortName>
+							<Path>SFX\小溪_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2454616260" Name="sword" ObjectPath="\Events\Default Work Unit\sword" DurationType="OneShot" DurationMin="0.406370" DurationMax="1.773251">
+					<IncludedMemoryFiles>
+						<File Id="69155988" Language="SFX">
+							<ShortName>剑 (2).wav</ShortName>
+							<Path>SFX\剑 (2)_10C4C929.wem</Path>
+						</File>
+						<File Id="605459185" Language="SFX">
+							<ShortName>剑 (3).wav</ShortName>
+							<Path>SFX\剑 (3)_10C4C929.wem</Path>
+						</File>
+						<File Id="857308161" Language="SFX">
+							<ShortName>剑 (1).wav</ShortName>
+							<Path>SFX\剑 (1)_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2886912260" Name="transport" ObjectPath="\Events\Default Work Unit\transport" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="298011989" Language="SFX">
+							<ShortName>LoopGhost5.wav</ShortName>
+							<Path>SFX\LoopGhost5_CFDAEE14.wem</Path>
+						</File>
+						<File Id="404221621" Language="SFX">
+							<ShortName>LoopGhost9.wav</ShortName>
+							<Path>SFX\LoopGhost9_737448A6.wem</Path>
+						</File>
+						<File Id="944106564" Language="SFX">
+							<ShortName>LoopGhost1.wav</ShortName>
+							<Path>SFX\LoopGhost1_1F8F8383.wem</Path>
+						</File>
+						<File Id="947936305" Language="SFX">
+							<ShortName>ExplosionGhost2.wav</ShortName>
+							<Path>SFX\ExplosionGhost2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3313685170" Name="voice1" ObjectPath="\Events\Default Work Unit\Voice\voice1" DurationType="OneShot" DurationMin="2.973605" DurationMax="4.120090">
+					<IncludedMemoryFiles>
+						<File Id="287320579" Language="SFX">
+							<ShortName>雷之律者-阳光很温暖，希望她能一直沐浴这样的阳光。【天气语音】.wav</ShortName>
+							<Path>SFX\雷之律者-阳光很温暖，希望她能一直沐浴这样的阳光。【天气语音】_10C4C929.wem</Path>
+						</File>
+						<File Id="696750623" Language="SFX">
+							<ShortName>雷之律者-已经是春天了吗？雨季马上要来临了。【春日语音】.wav</ShortName>
+							<Path>SFX\雷之律者-已经是春天了吗？雨季马上要来临了。【春日语音】_10C4C929.wem</Path>
+						</File>
+						<File Id="822849841" Language="SFX">
+							<ShortName>雷之律者-以前，也和她一起来过这里....wav</ShortName>
+							<Path>SFX\雷之律者-以前，也和她一起来过这里..._10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3313685169" Name="voice2" ObjectPath="\Events\Default Work Unit\Voice\voice2" DurationType="OneShot" DurationMin="0.738685" DurationMax="4.633832">
+					<IncludedMemoryFiles>
+						<File Id="57844435" Language="SFX">
+							<ShortName>雷之律者-我已决定面对自己的命运。.wav</ShortName>
+							<Path>SFX\雷之律者-我已决定面对自己的命运。_10C4C929.wem</Path>
+						</File>
+						<File Id="383480355" Language="SFX">
+							<ShortName>雷之律者-入夜了...每当夜深人静我总会想到她的事。【深夜语音】.wav</ShortName>
+							<Path>SFX\雷之律者-入夜了...每当夜深人静我总会想到她的事。【深夜语音】_10C4C929.wem</Path>
+						</File>
+						<File Id="556638024" Language="SFX">
+							<ShortName>雷之律者-我绝不会手下留情。.wav</ShortName>
+							<Path>SFX\雷之律者-我绝不会手下留情。_10C4C929.wem</Path>
+						</File>
+						<File Id="588591513" Language="SFX">
+							<ShortName>雷之律者-出现了吗？.wav</ShortName>
+							<Path>SFX\雷之律者-出现了吗？_10C4C929.wem</Path>
+						</File>
+						<File Id="697601400" Language="SFX">
+							<ShortName>雷之律者-开始行动！.wav</ShortName>
+							<Path>SFX\雷之律者-开始行动！_10C4C929.wem</Path>
+						</File>
+						<File Id="793136407" Language="SFX">
+							<ShortName>断罪影舞-未来的路，我会独自走下去。.wav</ShortName>
+							<Path>SFX\断罪影舞-未来的路，我会独自走下去。_10C4C929.wem</Path>
+						</File>
+						<File Id="1047329883" Language="SFX">
+							<ShortName>雷之律者-已经无法回头了。.wav</ShortName>
+							<Path>SFX\雷之律者-已经无法回头了。_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3313685168" Name="voice3" ObjectPath="\Events\Default Work Unit\Voice\voice3" DurationType="OneShot" DurationMin="0.793832" DurationMax="2.991020">
+					<IncludedMemoryFiles>
+						<File Id="27016410" Language="SFX">
+							<ShortName>雷之律者-杀意不断从空气中传来。.wav</ShortName>
+							<Path>SFX\雷之律者-杀意不断从空气中传来。_10C4C929.wem</Path>
+						</File>
+						<File Id="259885520" Language="SFX">
+							<ShortName>雷之律者-我，有必须要去完成的事。.wav</ShortName>
+							<Path>SFX\雷之律者-我，有必须要去完成的事。_10C4C929.wem</Path>
+						</File>
+						<File Id="327670782" Language="SFX">
+							<ShortName>断罪影舞-前进，是我唯一的选择。.wav</ShortName>
+							<Path>SFX\断罪影舞-前进，是我唯一的选择。_10C4C929.wem</Path>
+						</File>
+						<File Id="471286021" Language="SFX">
+							<ShortName>雷之律者-该结束了！.wav</ShortName>
+							<Path>SFX\雷之律者-该结束了！_10C4C929.wem</Path>
+						</File>
+						<File Id="514753002" Language="SFX">
+							<ShortName>雷之律者-我还能继续战斗。.wav</ShortName>
+							<Path>SFX\雷之律者-我还能继续战斗。_10C4C929.wem</Path>
+						</File>
+						<File Id="622223907" Language="SFX">
+							<ShortName>雷之律者-不用担心我。.wav</ShortName>
+							<Path>SFX\雷之律者-不用担心我。_10C4C929.wem</Path>
+						</File>
+						<File Id="822939620" Language="SFX">
+							<ShortName>断罪影舞-剑已出鞘！.wav</ShortName>
+							<Path>SFX\断罪影舞-剑已出鞘！_10C4C929.wem</Path>
+						</File>
+						<File Id="906623314" Language="SFX">
+							<ShortName>雷之律者-绝不放过一个敌人！.wav</ShortName>
+							<Path>SFX\雷之律者-绝不放过一个敌人！_10C4C929.wem</Path>
+						</File>
+						<File Id="927862549" Language="SFX">
+							<ShortName>雷之律者-你们逃不掉了。.wav</ShortName>
+							<Path>SFX\雷之律者-你们逃不掉了。_10C4C929.wem</Path>
+						</File>
+						<File Id="1046342364" Language="SFX">
+							<ShortName>雷之律者-一刀两断。.wav</ShortName>
+							<Path>SFX\雷之律者-一刀两断。_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2074477625" Name="waterfall" ObjectPath="\Events\Default Work Unit\环境\waterfall" DurationType="OneShot" DurationMin="104.150208" DurationMax="104.150208">
+					<IncludedMemoryFiles>
+						<File Id="1025971948" Language="SFX">
+							<ShortName>瀑布.wav</ShortName>
+							<Path>SFX\瀑布_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1323846727" Name="whoosh" ObjectPath="\Events\Default Work Unit\人物杂项\whoosh" DurationType="OneShot" DurationMin="0.448394" DurationMax="0.896788">
+					<IncludedMemoryFiles>
+						<File Id="818203125" Language="SFX">
+							<ShortName>whoosh-呼.wav</ShortName>
+							<Path>SFX\whoosh-呼_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="653058070" Language="SFX">
+					<ShortName>未命名2.wav</ShortName>
+					<Path>SFX\未命名2_D28A3F5B.wem</Path>
+				</File>
+				<File Id="834121009" Language="SFX">
+					<ShortName>未命名3.wav</ShortName>
+					<Path>SFX\未命名3_09A804B1.wem</Path>
+				</File>
+				<File Id="999332498" Language="SFX">
+					<ShortName>未命名3.wav</ShortName>
+					<Path>SFX\未命名3_9335AEBF.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+			<SwitchGroups>
+				<SwitchGroup Id="3321110986" Name="footMaterial" ObjectPath="\Switches\Default Work Unit\footMaterial">
+					<Switches>
+						<Switch Id="712897245" Name="mud" ObjectPath="\Switches\Default Work Unit\footMaterial\mud"/>
+						<Switch Id="4248645337" Name="grass" ObjectPath="\Switches\Default Work Unit\footMaterial\grass"/>
+						<Switch Id="2654748154" Name="water" ObjectPath="\Switches\Default Work Unit\footMaterial\water"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX" Hash="2392579616">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

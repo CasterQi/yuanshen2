@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 638572418cf33664f88dae09c5bf7652
+timeCreated: 1496088889
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: StoneBig
+    100004: StoneBig_frag_001
+    100006: StoneBig_frag_002
+    100008: StoneBig_frag_003
+    100010: StoneBig_frag_004
+    100012: StoneBig_frag_005
+    100014: StoneBig_frag_006
+    100016: StoneBig_frag_007
+    100018: StoneBig_frag_008
+    100020: StoneBig_frag_009
+    100022: StoneBig_frag_010
+    100024: StoneBig_frag_011
+    100026: StoneBig_frag_012
+    100028: StoneBig_frag_013
+    100030: StoneBig_frag_014
+    100032: StoneBig_frag_015
+    100034: StoneBig_frag_016
+    100036: Box007
+    100038: Box007_frag_001
+    100040: Box007_frag_002
+    100042: Box007_frag_003
+    100044: Box007_frag_004
+    100046: Box007_frag_005
+    100048: Rock1
+    100050: Rock2
+    100052: Rock3
+    100054: Rock4
+    400000: //RootNode
+    400002: StoneBig
+    400004: StoneBig_frag_001
+    400006: StoneBig_frag_002
+    400008: StoneBig_frag_003
+    400010: StoneBig_frag_004
+    400012: StoneBig_frag_005
+    400014: StoneBig_frag_006
+    400016: StoneBig_frag_007
+    400018: StoneBig_frag_008
+    400020: StoneBig_frag_009
+    400022: StoneBig_frag_010
+    400024: StoneBig_frag_011
+    400026: StoneBig_frag_012
+    400028: StoneBig_frag_013
+    400030: StoneBig_frag_014
+    400032: StoneBig_frag_015
+    400034: StoneBig_frag_016
+    400036: Box007
+    400038: Box007_frag_001
+    400040: Box007_frag_002
+    400042: Box007_frag_003
+    400044: Box007_frag_004
+    400046: Box007_frag_005
+    400048: Rock1
+    400050: Rock2
+    400052: Rock3
+    400054: Rock4
+    2300000: //RootNode
+    2300002: StoneBig
+    2300004: StoneBig_frag_001
+    2300006: StoneBig_frag_002
+    2300008: StoneBig_frag_003
+    2300010: StoneBig_frag_004
+    2300012: StoneBig_frag_005
+    2300014: StoneBig_frag_006
+    2300016: StoneBig_frag_007
+    2300018: StoneBig_frag_008
+    2300020: StoneBig_frag_009
+    2300022: StoneBig_frag_010
+    2300024: StoneBig_frag_011
+    2300026: StoneBig_frag_012
+    2300028: StoneBig_frag_013
+    2300030: StoneBig_frag_014
+    2300032: StoneBig_frag_015
+    2300034: StoneBig_frag_016
+    2300036: Box007
+    2300038: Box007_frag_001
+    2300040: Box007_frag_002
+    2300042: Box007_frag_003
+    2300044: Box007_frag_004
+    2300046: Box007_frag_005
+    2300048: Rock1
+    2300050: Rock2
+    2300052: Rock3
+    2300054: Rock4
+    3300000: //RootNode
+    3300002: StoneBig
+    3300004: StoneBig_frag_001
+    3300006: StoneBig_frag_002
+    3300008: StoneBig_frag_003
+    3300010: StoneBig_frag_004
+    3300012: StoneBig_frag_005
+    3300014: StoneBig_frag_006
+    3300016: StoneBig_frag_007
+    3300018: StoneBig_frag_008
+    3300020: StoneBig_frag_009
+    3300022: StoneBig_frag_010
+    3300024: StoneBig_frag_011
+    3300026: StoneBig_frag_012
+    3300028: StoneBig_frag_013
+    3300030: StoneBig_frag_014
+    3300032: StoneBig_frag_015
+    3300034: StoneBig_frag_016
+    3300036: Box007
+    3300038: Box007_frag_001
+    3300040: Box007_frag_002
+    3300042: Box007_frag_003
+    3300044: Box007_frag_004
+    3300046: Box007_frag_005
+    3300048: Rock1
+    3300050: Rock2
+    3300052: Rock3
+    3300054: Rock4
+    4300000: StoneBig
+    4300002: StoneBig_frag_001
+    4300004: StoneBig_frag_002
+    4300006: StoneBig_frag_003
+    4300008: StoneBig_frag_004
+    4300010: StoneBig_frag_005
+    4300012: StoneBig_frag_006
+    4300014: StoneBig_frag_007
+    4300016: StoneBig_frag_008
+    4300018: StoneBig_frag_009
+    4300020: StoneBig_frag_010
+    4300022: StoneBig_frag_011
+    4300024: StoneBig_frag_012
+    4300026: StoneBig_frag_013
+    4300028: StoneBig_frag_014
+    4300030: StoneBig_frag_015
+    4300032: StoneBig_frag_016
+    4300034: Box007
+    4300036: Box007_frag_001
+    4300038: Box007_frag_002
+    4300040: Box007_frag_003
+    4300042: Box007_frag_004
+    4300044: Box007_frag_005
+    4300046: Rock4
+    4300048: Rock3
+    4300050: Rock2
+    4300052: Rock1
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+repository "YuanShen2@phyx_qi@cloud.cn"
+  path "/"
+    smartbranch "/main" 
+     

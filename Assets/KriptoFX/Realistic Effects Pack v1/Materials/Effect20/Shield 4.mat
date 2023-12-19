@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shield 4
+  m_Shader: {fileID: 4800000, guid: dfe6e51c0ffb87246af0df6ac28d4a6e, type: 3}
+  m_ShaderKeywords: USE_CUTOUT USE_FRESNEL USE_HEIGHT USE_SOFT_PARTICLES _EMISSION
+    _ZWRITEMODE_ON
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 470b2ea77cf75c945b561739d3cb88e3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpTex:
+        m_Texture: {fileID: 2800000, guid: 4fb80bc804baa8b4a84fca1b633c455a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CutoutMap:
+        m_Texture: {fileID: 2800000, guid: 0ee3f21c7fd974149bb0d44e67e7b074, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CutoutTex:
+        m_Texture: {fileID: 2800000, guid: 0ee3f21c7fd974149bb0d44e67e7b074, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeightMap:
+        m_Texture: {fileID: 2800000, guid: 7c108821e8e018c4f959c45c0cd210ab, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeightTex:
+        m_Texture: {fileID: 2800000, guid: 7c108821e8e018c4f959c45c0cd210ab, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalTex:
+        m_Texture: {fileID: 2800000, guid: 470b2ea77cf75c945b561739d3cb88e3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AlphaClip: 10
+    - _BumpAmt: 50
+    - _CullMode: 0
+    - _Cutout: 0.589
+    - _CutoutThreshold: 0
+    - _Distortion: 100
+    - _FPOW: 2
+    - _FresnelDistort: 100
+    - _FresnelPow: 2
+    - _FresnelR0: 0.1
+    - _Height: 0.05
+    - _InvFade: 2
+    - _R0: 0.05
+    - _RefractiveStrength: 0.1
+    - _SoftFresnel: 1
+    - _UseAlphaCliping: 0
+    - _UseBlending: 0
+    - _UseCutout: 1
+    - _UseFresnel: 1
+    - _UseHeight: 1
+    - _UseRefractive: 0
+    - _UseSoft: 1
+    - _ZWriteMode: 1
+    m_Colors:
+    - _Color: {r: 1.0147059, g: 1.0773226, b: 1.2, a: 1}
+    - _CutoutColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FresnelColor: {r: 0.8625, g: 1.1108627, b: 1.6999999, a: 1}
+    - _FresnelDistort: {r: 8, g: 12, b: 1, a: 1500}
+    - _HeightUVScrollDistort: {r: 0, g: 0, b: 0, a: 0}
+    - _MainColor: {r: 1.0147059, g: 1.0773226, b: 1.2, a: 1}
+    - _UVScrollDistort: {r: 8, g: 12, b: 1, a: 1500}
+  m_BuildTextureStacks: []

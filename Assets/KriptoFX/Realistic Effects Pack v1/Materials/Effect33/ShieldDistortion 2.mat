@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShieldDistortion 2
+  m_Shader: {fileID: 4800000, guid: dfe6e51c0ffb87246af0df6ac28d4a6e, type: 3}
+  m_ShaderKeywords: BlendAlpha Clip_OFF FrameBlend_ON SoftParticles_ON USE_ALPHA_CLIPING
+    USE_BLENDING USE_SOFT_PARTICLES VertLight_OFF
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 8eed4849b39fb834eb66082fe0e29f36, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpTex:
+        m_Texture: {fileID: 2800000, guid: b175d08c02a44a94b9b24e65128d2c60, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CutoutMap:
+        m_Texture: {fileID: 2800000, guid: 8a6271a3c13985a4b9b3b12173d3816c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CutoutTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeightMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeightTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 9466e98dd5d88694a86adc15a2c59818, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalTex:
+        m_Texture: {fileID: 2800000, guid: b175d08c02a44a94b9b24e65128d2c60, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - DstMode: 10
+    - SrcMode: 5
+    - _AlphaClip: 5
+    - _BumpAmt: 60
+    - _CullMode: 0
+    - _Cutout: 0.1
+    - _CutoutThreshold: 0
+    - _Distortion: 60
+    - _FPOW: 1
+    - _FresnelDistort: 200
+    - _FresnelPow: 5
+    - _FresnelR0: 0.04
+    - _Height: 0
+    - _InvFade: 5
+    - _R0: 0
+    - _RefractiveStrength: 0.04
+    - _SoftFresnel: 1
+    - _UseAlphaCliping: 1
+    - _UseBlending: 1
+    - _UseCutout: 0
+    - _UseFresnel: 0
+    - _UseHeight: 0
+    - _UseRefractive: 0
+    - _UseSoft: 1
+    - _ZWriteMode: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _CutoutColor: {r: 0.91176486, g: 4, b: 1.1886411, a: 1}
+    - _FresnelColor: {r: 0.06925258, g: 0.40499997, b: 0.041691188, a: 1}
+    - _FresnelDistort: {r: 8, g: 12, b: 1, a: 1500}
+    - _HeightUVScrollDistort: {r: 8, g: 12, b: 0, a: 0}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 0, g: 0, b: 0, a: 1}
+    - _UVScrollDistort: {r: 8, g: 12, b: 1, a: 1500}
+  m_BuildTextureStacks: []
